@@ -1,7 +1,10 @@
 ### Hi there :3
-I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Computer Graphics Technology, majoring in User Experience Design with minors in Psychological Science, Computer Science, and Management! I am interested in drawing, design, and tennis. My favorite entertainer is Poppy, who is pictured below! A fun fact about me is that my sister and I are completely ambidextrous! We got this from our Mimi who was a wonderful ambidextrous artist!
+- 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Computer Graphics Technology, majoring in User Experience Design with minors in Psychological Science, Computer Science, and Management! 
+- 🌱 I am interested in drawing, design, and tennis. My favorite entertainer is Poppy, who is pictured below! A fun fact about me is that my sister and I are completely ambidextrous! We got this from our Mimi who was a wonderful ambidextrous artist!
 
 ![](images/PoppyGitHere2.jpeg)
+
+- 🌙 My portfolio is https://masoncknight.com and my LinkedIn is https://www.linkedin.com/in/mason-knight-5168b61bb/
 <!--
 **masonknight22/masonknight22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
