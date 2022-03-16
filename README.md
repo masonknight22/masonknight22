@@ -1,6 +1,6 @@
 ### Hi there :3
 - 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Computer Graphics Technology, majoring in User Experience Design with minors in Psychological Science, Computer Science, and Management! 
-- 🌱 I am interested in drawing, design, and tennis. My favorite entertainer is Poppy, who is pictured below! A fun fact about me is that my sister and I are completely ambidextrous! We got this from our Mimi who was a wonderful ambidextrous artist!
+- 🌱 I am interested in drawing, design, and tennis. My favorite entertainer is Poppy, pictured below, is someone who I get a lot of inspiration from! A fun fact about me is that my sister and I are completely ambidextrous! We got this from our Mimi who was a wonderful ambidextrous artist!
 
 ![](images/PoppyGitHere2.jpeg)
 
