@@ -1,5 +1,5 @@
 ### Hi there :3
-- 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Human Factors Engineering with minors in Psychological Science, Computer Science, Transformational Engineering and Management! 
+- 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Design with minors in Psychological Science, Computer Science, Transformational Engineering and Management! 
 - 🏗️ I am currently a structural engineering researcher at Bowen Laboratory, studying steel concrete composite structures under destructive blast conditions!
 - 🌱 I am interested in drawing, design, and tennis. My favorite entertainer Poppy, pictured below, is someone whom I get a lot of inspiration from!
 
