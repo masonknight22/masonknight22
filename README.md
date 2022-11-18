@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Bachelor of Science (B.S.) in Computer Graphics Technology (User Experience Design) with plans to go to graduate school.
 - 🌱 I’m currently learning human-centered design and Engineering
 - 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with learning new coding languages :3 I am open to learning more 
+- 🤔 I’m looking for help with learning new coding languages :3 I am open to learning more  
 - 💬 Ask me about my work, I have a portfolio at https://www.masoncknight.com
 - 📫 How to reach me: knigh112@purdue.edu and (765) 209-2851
 - 😄 Pronouns: He/Him
