@@ -6,7 +6,7 @@
 ![](images/dav.png) 
 
 - 🌙 My portfolio is https://masoncknight.com and my LinkedIn is https://www.linkedin.com/in/mason-knight-5168b61bb/
-- 🖥️ I have VERY general knowledge in the following languages: Java, Python, Matlab, C, C++, HTML, CSS, JS, VBA 
+- 🖥️ I have VERY general knowledge in the following languages: Java, Python, Matlab, C, C++, HTML, CSS, JS, VBA  
 <!--
 **masonknight22/masonknight22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
