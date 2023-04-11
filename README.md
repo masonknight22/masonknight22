@@ -3,7 +3,7 @@
 - 🏗️ I am currently a structural engineering researcher at Bowen Laboratory, studying steel concrete composite structures under destructive blast conditions! 
 - 🌱 I am interested in drawing, tennis, writing, hiking, and music!
 
-![](images/PoppyGitHere2.jpeg)
+![](images/david.png)
 
 - 🌙 My portfolio is https://masoncknight.com and my LinkedIn is https://www.linkedin.com/in/mason-knight-5168b61bb/
 - 🖥️ I have VERY general knowledge in the following languages: Java, Python, Matlab, C, C++, HTML, CSS, JS, VBA 
