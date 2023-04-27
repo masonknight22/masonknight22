@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: knigh112@purdue.edu and (765) 209-2851
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My sister and I are completely ambidextrous! We got this from our Mimi who was a wonderful artist <3
--->
+--> 
