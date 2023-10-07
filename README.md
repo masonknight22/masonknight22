@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Bachelor of Science (B.S.) in Industrial Design.
+- 🔭 I’m currently working on a Bachelor of Science (B.S.) in Industrial Design. 
 - 🌱 I’m currently learning human-centered design and Engineering
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with learning new coding languages :3 I am open to learning more  
