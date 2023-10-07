@@ -2,7 +2,7 @@
 - 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Industrial Design with minors in Psychological Science, Computer Science, Industrial Engineering and Liberal Arts! As a designer, I enjoy utilizing the strengths of many different languages to assist my research/design work.
 - 🛰️ I am an incoming Industrial Engineer at Ball Aerospace where I work with intelligence and knowledge management!
 - 🏗️ I am currently a structural engineering researcher at Bowen Laboratory, studying steel concrete composite structures under destructive blast conditions! 
-- 🌱 I am interested in drawing, tennis, writing, hiking, and music! 
+- 🌱 I am interested in drawing, tennis, writing, hiking, and music!  
 
 ![](images/dav.png) 
 
