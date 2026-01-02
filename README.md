@@ -1,7 +1,10 @@
 ### Hi there :3
-- 🦆 I am a student at Purdue University studying towards a Bachelor of Science (B.S.) in Industrial Design with minors in Psychological Science, Computer Science, Industrial Engineering and Liberal Arts! As a designer, I enjoy utilizing the strengths of many different languages to assist my research/design work.
-- 🛰️ I am an incoming Industrial Engineer at Ball Aerospace where I work with intelligence and knowledge management!
-- 🏗️ I am currently a structural engineering researcher at Bowen Laboratory, studying steel concrete composite structures under destructive blast conditions! 
+- 🦢 I am currently pursuing a Master of Science (M.S.I.E.) in Industrial Engineering at Purdue University, with a focus in Human Factors and Ergonomics. I am passionate about design, systems, and how our environment affects the human experience.
+- 🦆 I also completed my undergraduate at Purdue University, holding a Bachelor of Science (B.S.) in Product Design, with minors in Psychological Science and Innovation & Transformational Change! I specialized in human-centered design and aesthetics.
+- 👷‍♂️ I am currently a Mechanical Design Engineer at General Electric where I work with large-scale power and energy infrastructure, electromechanical components, and modeling the grid!
+- 🛰️ I am a previous intern at Ball Aerospace, my work focused on knowledge and intelligence management for mission systems, including continuous improvement methods, model-based systems engineering, and user-interfaces!
+- 🏗️ I am a previous structural engineering researcher at Bowen Laboratory, studying steel concrete composite structures under destructive blast conditions!
+- 🏔 I have also previously done contract work or internships with AES Corporation, Northrop Grumman, PepsiCo, and Purdue Unviersity
 - 🌱 I am interested in drawing, tennis, writing, hiking, and music!  
 
 ![](images/dav.png) 
