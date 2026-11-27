@@ -7,6 +7,7 @@
 My programming knowledge is limited. I hold these repositories as an archive for academic and personal projects that I have been involved in, ranging from agent-based modeling, input/output computing, mathematical computation and statistical analysis, web programming, and object oriented-programming, involving my general knowledge of Java, Python, Matlab, Fortran, R, C, C++, HTML, CSS, JS, SQL, VBA.
 
 <img width="1432" height="793" alt="IDPort" src="https://github.com/user-attachments/assets/9248e984-4afd-489e-ab22-a9092302d714" />
+
 ![](images/Ferrari2.png) 
 
 
