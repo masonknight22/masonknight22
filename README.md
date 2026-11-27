@@ -1,7 +1,7 @@
 ### Hi there :3
 - 🦢 I am a designer.
 - 🐎 I live in Saratoga Springs, New York. I was born and raised rurally in Albany, Indiana.
-- 🌱 I hold a Master of Science in Engineering and Bachelors of Science in Design and Engineering from Purdue University.
+- 🌱 I hold a Master of Science in Engineering (wip) and Bachelors of Science in Design and Engineering from Purdue University.
 - 🏗️ I am currently a Mechanical Engineer at General Electric (GE Vernova).
 - 🛰️ I have contributed to several NASA missions through Ball Aerospace (BAE Space and Mission Systems) support.
 
