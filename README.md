@@ -3,7 +3,7 @@
 - 🐎 I live in Saratoga Springs, New York. I was born and raised rurally in Albany, Indiana.
 - 🌱 I hold a Master of Science in Engineering (wip) and Bachelors of Science in Design and Engineering from Purdue University.
 - 🏗️ I am currently a Mechanical Engineer at General Electric (GE Vernova).
-- 🛰️ I have contributed to several NASA missions through Ball Aerospace (BAE Space and Mission Systems) support.
+- 🛰️ I have contributed to several NASA missions through Ball Aerospace (BAE Space and Mission Systems) efforts.
 
 My programming knowledge is limited. I hold these repositories as an archive for academic and personal projects that I have been involved in, ranging from agent-based modeling, input/output computing, mathematical computation and statistical analysis, web programming, and object oriented-programming, involving my general knowledge of Java, Python, Matlab, Fortran, R, C, C++, HTML, CSS, JS, SQL, VBA.
 
